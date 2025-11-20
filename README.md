@@ -1,5 +1,8 @@
 # Module de Réalité Virtuelle
+
 ## [Leo Donati](https://github.com/DonatiLeo)
+
+## Université Côte d'Azur - Polytech Nice Sophia - MAM5
 
 ### Principe du module
 
