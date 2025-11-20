@@ -1,5 +1,5 @@
 # Module de Réalité Virtuelle
-## Leo Donati
+## [Leo Donati](https://github.com/DonatiLeo)
 
 ### Principe du module
 
